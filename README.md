@@ -1,4 +1,4 @@
-<img src="https://www.bufordcoc.com/wp-content/uploads/2019/11/shutterstock_1421304710-1320x734.jpg" width="40%" alt="picture of name patience">
+<img src="https://www.bufordcoc.com/wp-content/uploads/2019/11/shutterstock_1421304710-1320x734.jpg" width="40%" display:="block" margin="auto" alt="picture of name patience">
 
 <p><em> <bold>I'm Patience </bold> from Nigeria living in the UK: i have a degree in Accounting but currently branching out into Tech.</em></p>
 <p><em>I'm presently part of the  <strong>NIYO Blackcodher</strong> bootcamp traing to actualize my dream of becoming a web developer</em></p>
